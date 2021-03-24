@@ -1,0 +1,39 @@
+{
+  "name": "livereload-js",
+  "version": "2.4.0",
+  "main": "dist/livereload.js",
+  "homepage": "http://livereload.com",
+  "authors": [
+    "Andrey Tarantsov <andrey@tarantsov.com>",
+    "David Kelso <david@kelso.id.au>"
+  ],
+  "description": "LiveReload JS client - auto reload browser on changes",
+  "keywords": [
+    "javascript",
+    "livereload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "Rakefile",
+    "lib",
+    "lib-cov",
+    "src",
+    "test",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "_release": "2.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.4.0",
+    "commit": "557589c541d2e8d616ba5b6eada014fe330ee769"
+  },
+  "_source": "https://github.com/livereload/livereload-js.git",
+  "_target": "^2.2.1",
+  "_originalSource": "livereload-js"
+}

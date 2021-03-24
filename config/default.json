@@ -1,0 +1,15 @@
+{
+  "theme": "admin-lte",
+  "session": {
+    "secret": "A78NC1gc8e",
+    "maxAge": 2419200000
+  },
+  "signUp": {
+    "needActivation": false
+  },
+  "facebookAuth": {
+    "clientID": "client_id",
+    "clientSecret": "client_secret",
+    "callbackURL": "https://course-mapper.sc.inko.cloud/api/accounts/facebook/callback"
+  }
+}
